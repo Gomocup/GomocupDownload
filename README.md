@@ -1,5 +1,30 @@
 # GomocupDownload
-A temporary repository to provide downloads of new and updated AIs in Gomocup 2019
+A temporary repository to provide downloads of new and updated AIs in Gomocup 2019 and 2020
+
+### 2020
+
+[AIBB20](https://github.com/Gomocup/GomocupDownload/raw/master/2020/AIBB20.zip)
+
+[ALPHAGOMOKU.MK20](https://github.com/Gomocup/GomocupDownload/raw/master/2020/ALPHAGOMOKU.MK20.zip)
+
+[EMBRYO20.F](https://github.com/Gomocup/GomocupDownload/raw/master/2020/EMBRYO20.F.zip)
+
+[EMBRYO20.R](https://github.com/Gomocup/GomocupDownload/raw/master/2020/EMBRYO20.R.zip)
+
+[EMBRYO20.S](https://github.com/Gomocup/GomocupDownload/raw/master/2020/EMBRYO20.S.zip)
+
+[PENTAZEN20](https://github.com/Gomocup/GomocupDownload/raw/master/2020/PENTAZEN20.zip)
+
+[PUREGM20](https://github.com/Gomocup/GomocupDownload/raw/master/2020/PUREGM20.zip)
+
+[SLOWRENJU20](https://github.com/Gomocup/GomocupDownload/raw/master/2020/SLOWRENJU20.zip)
+
+[TIANSHU](https://github.com/Gomocup/GomocupDownload/raw/master/2020/TIANSHU.zip)
+
+[XOXO20](https://github.com/Gomocup/GomocupDownload/raw/master/2020/XOXO20.zip)
+
+
+### 2019
 
 [ALPHAGOMOKU.MK19.F](https://github.com/Gomocup/GomocupDownload/raw/master/2019/ALPHAGOMOKU.MK19.F.zip)
 
