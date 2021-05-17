@@ -29,9 +29,9 @@ A temporary repository to provide downloads of new and updated AIs in Gomocup 20
 
 [KATAGOMO21.S](https://github.com/Gomocup/GomocupDownload/raw/master/2021/KATAGOMO21.S.zip)
 
-[PENTAZEN21.15](https://github.com/Gomocup/GomocupDownload/raw/master/2021/PENTAZEN21.15.zip)
+[PENTAZEN21.15](https://github.com/Gomocup/GomocupDownload/raw/master/2021/PENTAZEN21.15.zip) (used in the Standard, Renju, and Experimental leagues)
 
-[PENTAZEN21.20](https://github.com/Gomocup/GomocupDownload/raw/master/2021/PENTAZEN21.20.zip)
+[PENTAZEN21.20](https://github.com/Gomocup/GomocupDownload/raw/master/2021/PENTAZEN21.20.zip) (used in the Freestyle and Fastgame leagues)
 
 [PUREGM21](https://github.com/Gomocup/GomocupDownload/raw/master/2021/PUREGM21.zip)
 
@@ -57,7 +57,7 @@ A temporary repository to provide downloads of new and updated AIs in Gomocup 20
 
 [PUREGM20](https://github.com/Gomocup/GomocupDownload/raw/master/2020/PUREGM20.zip)
 
-[SLOWRENJU20](https://github.com/Gomocup/GomocupDownload/raw/master/2020/SLOWRENJU20.zip)
+[SLOWRENJU20](https://github.com/Gomocup/GomocupDownload/raw/master/2020/SLOWRENJU20.zip) (used in all leagues, including the Experimental)
 
 [TIANSHU](https://github.com/Gomocup/GomocupDownload/raw/master/2020/TIANSHU.zip)
 
