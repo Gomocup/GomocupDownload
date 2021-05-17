@@ -1,6 +1,42 @@
 # GomocupDownload
 A temporary repository to provide downloads of new and updated AIs in Gomocup 2019 and 2020
 
+### 2021
+
+[ALPHAGOMOKU.MK21](https://github.com/Gomocup/GomocupDownload/raw/master/2021/ALPHAGOMOKU.MK21.zip)
+
+[BARBAKAN](https://github.com/Gomocup/GomocupDownload/raw/master/2021/BARBAKAN.zip)
+
+[EGO21](https://github.com/Gomocup/GomocupDownload/raw/master/2021/EGO21.zip)
+
+[EMBRYO21.E](https://github.com/Gomocup/GomocupDownload/raw/master/2021/EMBRYO21.E.zip)
+
+[EMBRYO21.F](https://github.com/Gomocup/GomocupDownload/raw/master/2021/EMBRYO21.F.zip)
+
+[EMBRYO21.R](https://github.com/Gomocup/GomocupDownload/raw/master/2021/EMBRYO21.R.zip)
+
+[EMBRYO21.S](https://github.com/Gomocup/GomocupDownload/raw/master/2021/EMBRYO21.S.zip)
+
+[KATAGOMO21.E](https://github.com/Gomocup/GomocupDownload/raw/master/2021/KATAGOMO21.E.zip)
+
+[KATAGOMO21.F](https://github.com/Gomocup/GomocupDownload/raw/master/2021/KATAGOMO21.F.zip)
+
+[KATAGOMO21.R](https://github.com/Gomocup/GomocupDownload/raw/master/2021/KATAGOMO21.R.zip)
+
+[KATAGOMO21.S](https://github.com/Gomocup/GomocupDownload/raw/master/2021/KATAGOMO21.S.zip)
+
+[PENTAZEN21.15](https://github.com/Gomocup/GomocupDownload/raw/master/2021/PENTAZEN21.15.zip)
+
+[PENTAZEN21.20](https://github.com/Gomocup/GomocupDownload/raw/master/2021/PENTAZEN21.20.zip)
+
+[PUREGM21](https://github.com/Gomocup/GomocupDownload/raw/master/2021/PUREGM21.zip)
+
+[RAPFI21](https://github.com/Gomocup/GomocupDownload/raw/master/2021/RAPFI21.zip)
+
+[XOXO21.F](https://github.com/Gomocup/GomocupDownload/raw/master/2021/XOXO21.F.zip)
+
+[XOXO21.S](https://github.com/Gomocup/GomocupDownload/raw/master/2021/XOXO21.S.zip)
+
 ### 2020
 
 [AIBB20](https://github.com/Gomocup/GomocupDownload/raw/master/2020/AIBB20.zip)
