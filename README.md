@@ -1,5 +1,5 @@
 # GomocupDownload
-A temporary repository to provide downloads of new and updated AIs in Gomocup 2019 and 2020
+A temporary repository to provide downloads of new and updated AIs in Gomocup 2019, 2020, and 2021.
 
 ### 2021
 
