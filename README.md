@@ -5,6 +5,10 @@ A temporary repository to provide downloads of new and updated AIs in Gomocup 20
 
 [ALPHAGOMOKU.MK21](https://github.com/Gomocup/GomocupDownload/raw/master/2021/ALPHAGOMOKU.MK21.zip)
 
+[ALPHAGOMOKU.MK21.E.Linux](https://github.com/Gomocup/GomocupDownload/raw/master/2021/ALPHAGOMOKU.MK21.E.Linux.zip)
+
+[ALPHAGOMOKU.MK21.E.Windows](https://github.com/Gomocup/GomocupDownload/raw/master/2021/ALPHAGOMOKU.MK21.E.Windows.zip)
+
 [BARBAKAN](https://github.com/Gomocup/GomocupDownload/raw/master/2021/BARBAKAN.zip)
 
 [EGO21](https://github.com/Gomocup/GomocupDownload/raw/master/2021/EGO21.zip)
