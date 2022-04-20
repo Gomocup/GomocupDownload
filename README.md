@@ -1,6 +1,29 @@
 # GomocupDownload
 A temporary repository to provide downloads of new and updated AIs in Gomocup 2019, 2020, and 2021.
 
+### 2022
+[ALPHAGOMOKU.MK22](https://github.com/MaciejKozarzewski/AlphaGomoku/releases/tag/v5.3.3)
+
+[ANGEL](https://github.com/Gomocup/GomocupDownload/raw/master/2022/ANGEL.zip)
+
+[ARBILLO](https://github.com/Gomocup/GomocupDownload/raw/master/2022/ARBILLO.zip)
+
+[DDQKCONQUER](https://github.com/Gomocup/GomocupDownload/raw/master/2022/DDQKCONQUER.zip)
+
+[EMBRYO22](https://github.com/Gomocup/GomocupDownload/raw/master/2022/EMBRYO22.zip)
+
+[PENTAZENNN22](https://github.com/Gomocup/GomocupDownload/raw/master/2022/PENTAZENNN22.zip)
+
+[PENTAZENNN22(AVX2)](https://github.com/Gomocup/GomocupDownload/raw/master/2022/PENTAZENNN22_AVX2.zip)
+
+[PENTAZENNN22.E](https://github.com/Gomocup/GomocupDownload/raw/master/2022/PENTAZENNN22.E.zip)
+
+RAPFI22 [part1](https://github.com/Gomocup/GomocupDownload/raw/master/2022/RAPFI22.zip.001) [part2](https://github.com/Gomocup/GomocupDownload/raw/master/2022/RAPFI22.zip.002)
+
+[RAPFI22.E](https://github.com/Gomocup/GomocupDownload/raw/master/2022/RAPFI22.E.zip)
+
+[ZHOUMIAN](https://github.com/Gomocup/GomocupDownload/raw/master/2022/ZHOUMIAN.zip)
+
 ### 2021
 
 [ALPHAGOMOKU.MK21](https://github.com/Gomocup/GomocupDownload/raw/master/2021/ALPHAGOMOKU.MK21.zip)
