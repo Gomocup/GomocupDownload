@@ -1,5 +1,20 @@
 # GomocupDownload
-A temporary repository to provide downloads of new and updated AIs in Gomocup 2019, 2020, and 2021.
+A temporary repository to provide downloads of new and updated AIs in Gomocup 2019 - 2023.
+
+### 2023
+[ALPHAGOMOKU.MK23](https://github.com/Gomocup/GomocupDownload/raw/master/2023/ALPHAGOMOKU.MK23.zip)
+
+[EMBRYO23](https://github.com/Gomocup/GomocupDownload/raw/master/2023/EMBRYO23.zip)
+
+[JAX](https://github.com/Gomocup/GomocupDownload/raw/master/2023/JAX.zip)
+
+[LAVENDER](https://github.com/Gomocup/GomocupDownload/raw/master/2023/LAVENDER.zip)
+
+[PELA23](https://github.com/Gomocup/GomocupDownload/raw/master/2023/PELA23.zip)
+
+[RAPFI23](https://gomocup.org/static/download-ai/RAPFI23.zip)
+
+[SQUIRREL](https://github.com/Gomocup/GomocupDownload/raw/master/2023/SQUIRREL.zip)
 
 ### 2022
 [ALPHAGOMOKU.MK22](https://github.com/MaciejKozarzewski/AlphaGomoku/releases/tag/v5.3.3)
