@@ -8,6 +8,8 @@ A temporary repository to provide downloads of new and updated AIs in Gomocup 20
 
 [JAX24.zip](https://github.com/Gomocup/GomocupDownload/raw/master/2024/JAX24.zip)
 
+[JAX24.E.zip](https://github.com/Gomocup/GomocupDownload/raw/master/2024/JAX24.E.zip)
+
 [RAPFI24.zip](https://github.com/Gomocup/GomocupDownload/raw/master/2024/RAPFI24.zip)
 
 [SQUIRREL24.zip](https://github.com/Gomocup/GomocupDownload/raw/master/2024/SQUIRREL24.zip)
