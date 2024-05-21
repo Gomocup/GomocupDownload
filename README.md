@@ -1,5 +1,5 @@
 # GomocupDownload
-A temporary repository to provide downloads of new and updated AIs in Gomocup 2019 - 2023.
+A temporary repository to provide downloads of new and updated AIs in Gomocup 2019 - 2024.
 
 ### 2024
 [ALPHAGOMOKU.MK24.zip](https://github.com/Gomocup/GomocupDownload/raw/master/2024/ALPHAGOMOKU.MK24.zip)
