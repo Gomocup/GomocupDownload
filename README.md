@@ -4,6 +4,8 @@ A temporary repository to provide downloads of new and updated AIs in Gomocup 20
 ### 2024
 [ALPHAGOMOKU.MK24.zip](https://github.com/Gomocup/GomocupDownload/raw/master/2024/ALPHAGOMOKU.MK24.zip)
 
+[ALPHAGOMOKU.MK24.E.zip](https://github.com/Gomocup/GomocupDownload/raw/master/2024/ALPHAGOMOKU.MK24.E.zip)
+
 [EMBRYO24.zip](https://github.com/Gomocup/GomocupDownload/raw/master/2024/EMBRYO24.zip)
 
 [JAX24.zip](https://github.com/Gomocup/GomocupDownload/raw/master/2024/JAX24.zip)
